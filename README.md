@@ -1,1 +1,2 @@
-The aim of this project is to proof whether it's possible to have an animated background wallpaper (on Android/Android Automotive OS) with a transparent app upon.
+The app itself is a transparent app with a button, just for testing purpose.
+When you click on that button, it shows up a dialog for setting a new wallpaper.
